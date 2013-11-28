@@ -1,4 +1,3 @@
-MyPractice
-==========
+#MyPractice
 
-Just some programming snippets around.
+Just some code snippets around.
